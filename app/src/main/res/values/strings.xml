@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">editor</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardado">Your file was successfully saved</string>
+    <string name="guardar">Do you want to save the changes?</string>
+</resources>
